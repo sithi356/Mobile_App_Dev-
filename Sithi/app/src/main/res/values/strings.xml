@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flower Shop</string>
+    <string-array name="flower_types">
+        <item>Rose</item>
+        <item>Lily</item>
+        <item>Tulip</item>
+    </string-array>
+    <string name="seek_varieties_button_text">Seek Varieties</string>
+</resources>
